@@ -1,2 +1,2 @@
 # ICICI-Repo
-This is used for banking repository
+This is repository is used for banking purpose
